@@ -7,7 +7,7 @@
 class Database
 {
     private string $host = 'localhost';
-    private string $db_name = 'solomono_tests';
+    private string $db_name = 'solomono_catalog';
     private string $username = 'root';
     private string $password = '';
     private string $charset = 'utf8mb4';
